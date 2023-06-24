@@ -1,2 +1,2 @@
-# scs-bc-prework-study-guide
+# prework-study-guide
 study guide for scs bootcamp prework
