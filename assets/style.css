@@ -13,12 +13,6 @@ header, footer
     text-align: center;
 }
 
-h1
-{
-    padding-top: 8px;
-    padding-bottom: 8px;
-}
-
 h2
 {
     text-align: center;
@@ -36,7 +30,6 @@ img
 ul
 {
     padding-left: 40px;
-    padding-bottom: 10px;
     font-size: 20px;
 }
 
