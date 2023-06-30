@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-This Prework Study Guide is meant to document various key notes & other bits of information covered in prework. This allows boot camp students to to quickly review important information without having to go through the entirety of the prework course again. The Study Guide goes over the basics of HTML, CSS, Git & GitHub, and JavaScript.
+This Prework Study Guide documents various key notes & other bits of information covered in prework. This allows boot camp students to to quickly review important information without having to go through the entirety of the prework course again. The Study Guide goes over the basics of HTML, CSS, Git & GitHub, and JavaScript.
 
 ## Installation
 
