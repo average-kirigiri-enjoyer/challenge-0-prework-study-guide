@@ -1,3 +1,10 @@
+/*
+Ethan Hertl
+SCS Boot Camp Prework Study Guide JavaScript
+Created 2023/06/28
+Last Edited 2023/06/30
+*/
+
 //defines prework study guide topics
 let topics = ["HTML", "CSS", "Git", "JavaScript"];
 
