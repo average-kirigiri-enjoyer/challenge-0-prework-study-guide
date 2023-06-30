@@ -1,5 +1,5 @@
 /*
-Ethan Hertl
+ethan (average-kirigiri-enjoyer)
 SCS Boot Camp Prework Study Guide JavaScript
 Created 2023/06/28
 Last Edited 2023/06/30
