@@ -8,6 +8,10 @@ N / A
 
 ## Usage
 
+View the study guide here;
+
+https://average-kirigiri-enjoyer.github.io/challenge-0-prework-study-guide/
+
 To use the study guide, read through each section's notes. For a suggestion on which topic to study first, open your browser's DevTools menu (F12 / Control + Shift + I on Windows, or Command + Option + I on MacOS, required key input may differ depending on your browser). Switching to the console tab will list the topics covered in the Study Guide, along with a suggestion on which topic to study first. Refreshing the page will result in a new suggestion.
 
 ## Credits
